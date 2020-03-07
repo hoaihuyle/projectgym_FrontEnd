@@ -1,0 +1,27 @@
+body{overflow-x: hidden;}
+a{color: #2f2d2d; font-size: 14px}
+a:hover{color: #2f2d2d}
+*{font-size: 15px}
+img{width: 100%; height:auto}
+.from-blog .list-blog .blog-inner .blog-img:before{border-right: 78px solid transparent;border-top: 78px solid #fff; top: 0px; content: ''; height: 0; left: 15px; position: absolute; width: 0;}
+.from-blog .list-blog .blog-inner .blog-img .date{position: absolute; top: -3px; left: 15px; color: #909090; font-size: 107.7%; width: 80px;}
+.from-blog .list-blog .blog-inner .blog-img .date span{color:#909090; font-size: 184.6%; font-weight: 700;	display: block; line-height: 100%;}
+.from-blog .list-blog .blog-inner .blog-tit{padding: 12px 0 8px}
+.from-blog .list-blog .blog-inner .blog-tit a{color: #222; font-size: 107.7%; font-weight: 700;}
+.owl-nav button{
+	width: 40px;
+    height: 30px; 
+    text-align: center;
+    border: 2px solid #232323!important;
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 10%;
+    position: relative; 
+    overflow: hidden; 
+		margin: 0 5px; 
+		display: inline-block;
+ 
+}
+.owl-nav button span{font-size:25px; line-height: 24px;}
+.owl-nav{text-align: center; margin: 35px 0 65px;}
+.bx-viewport a .item{max-height: 550px; height:100%; image-rendering: pixelated; object-fit: cover; object-position: 0 0;}
