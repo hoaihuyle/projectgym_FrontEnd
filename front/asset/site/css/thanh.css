@@ -44,3 +44,16 @@ img{width: 100%; height:auto}
 #detail .cs-flex{margin-top: 15px;}
 #detail .product-options-bottom { float: left; display: block; width: 100% } 
 .nutrition_facts{margin-top: 15px}
+
+/* //aboutus */
+#maincontent { padding: 5px 0;}
+#maincontent .page-title-wrapper{font-size: 138.5%; color: #222; font-weight: 700; text-transform: uppercase;margin-bottom: 35px;}
+#maincontent .col-lg-9.col-md-9.col-sm-12.col-xs-12{margin-left: -15px}
+#maincontent .col-lg-3.col-md-3.col-sm-12.col-xs-12{margin-right: -15px;}
+.page-title{font-size: 138.5%; color: #222;  font-weight: 700; text-transform: uppercase;}
+.page-main tbody tr td{ padding: 8px 10px; vertical-align: top;max-width: 100%;}
+.page-main .alert strong{font-weight: bold; }
+.page-main tbody{display: block; margin-left: -10px;}
+.page-main tr{display: flex; width: 100%; margin-bottom: 5px;}
+.page-main .alert-info, .page-main .alert-info span{background-color: #d9edf7; border-color: #bce8f1; color: #31708f;}
+.page-main .alert{height:100%;padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; margin: 0 0 10px; border-collapse: collapse; border-spacing: 0;}

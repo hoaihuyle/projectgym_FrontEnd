@@ -1,26 +1,6 @@
 <?php include('header.php') ?>  
 <section id="'detail" >
-   <div class="breadcrumbs">
-      <div class="container">
-         <ul class="items">
-            <li class="item home">
-               <a href="#" title="Đi đến trang chủ">
-               Trang chủ					</a>
-            </li>
-            <li class="item">
-               <a href="#" title="">
-               PROTEIN &amp; Tăng cân					</a>
-            </li>
-            <li class="item">
-               <a href="#" title="">
-               Protein hoàn chỉnh					</a>
-            </li>
-            <li class="item product">
-               <strong>BCAA 3:1:2 (30 Servings)</strong>
-            </li>
-         </ul>
-      </div>
-   </div>
+   
    <form id="submit-product" action="" method="post">
       <div class="session microdata" itemtype="">
          <div class="main-content">

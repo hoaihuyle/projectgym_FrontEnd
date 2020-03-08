@@ -196,3 +196,25 @@
       </div>
      <h1 style="display: none;">CODO SUPP - Dinh dưỡng, thực phẩm thể hình, Gym chính hãng.</h1>
       <h2 style="display: none">CODO SUPP chỉ phân phối các sản phẩm thực phẩm bổ sung chính hãng</h2>
+
+      <div class="breadcrumbs">
+      <div class="container">
+         <ul class="items">
+            <li class="item home">
+               <a href="#" title="Đi đến trang chủ">
+               Trang chủ					</a>
+            </li>
+            <li class="item">
+               <a href="#" title="">
+               PROTEIN &amp; Tăng cân					</a>
+            </li>
+            <li class="item">
+               <a href="#" title="">
+               Protein hoàn chỉnh					</a>
+            </li>
+            <li class="item product">
+               <strong>BCAA 3:1:2 (30 Servings)</strong>
+            </li>
+         </ul>
+      </div>
+   </div>
