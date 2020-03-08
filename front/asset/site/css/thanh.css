@@ -54,6 +54,13 @@ img{width: 100%; height:auto}
 .page-main tbody tr td{ padding: 8px 10px; vertical-align: top;max-width: 100%;}
 .page-main .alert strong{font-weight: bold; }
 .page-main tbody{display: block; margin-left: -10px;}
-.page-main tr{display: flex; width: 100%; margin-bottom: 5px;}
+.about-us tr{display: flex; width: 100%; margin-bottom: 5px;}
 .page-main .alert-info, .page-main .alert-info span{background-color: #d9edf7; border-color: #bce8f1; color: #31708f;}
 .page-main .alert{height:100%;padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; margin: 0 0 10px; border-collapse: collapse; border-spacing: 0;}
+
+/* card */
+#card-shop span.ui-spinner.ui-corner-all.ui-widget.ui-widget-content {margin: 0 auto}
+#card-shop .ta-center span{height: 100%; }
+
+
+
