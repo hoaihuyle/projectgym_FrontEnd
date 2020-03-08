@@ -26,5 +26,8 @@ $(document).ready(function(){
           items:5,  
 				}
 			},
-  });
+	});
+	 
+
+
 });
