@@ -25,22 +25,3 @@ img{width: 100%; height:auto}
 .owl-nav button span{font-size:25px; line-height: 24px;}
 .owl-nav{text-align: center; margin: 35px 0 65px;}
 .bx-viewport a .item{max-height: 550px; height:100%; image-rendering: pixelated; object-fit: cover; object-position: 0 0;}
-
-/* chitietsp */
-
-.breadcrumbs{ padding: 20px 0 5px 0; margin: 0;}
-.breadcrumbs .items{font-size: 1.2rem; color: #a3a3a3; margin: 0 -15px; padding: 0; list-style: none none;}
-.breadcrumbs .items>li { display: inline-block; vertical-align: top; }
-.breadcrumbs .item { margin: 0; }
-.breadcrumbs .items .item { color: #7d7d7d; text-transform: uppercase; }
-.breadcrumbs .items .item:hover {  border-color: #0099b2; }
-.breadcrumbs .items .item a { display: block; text-decoration: none; color: #7d7d7d;}
-.breadcrumbs a:visited {color: #333;text-decoration: none;}
-.breadcrumbs a {color: #333;text-decoration: none;}
-.breadcrumbs .product{padding: 0; margin-bottom: 0!important;}
-.breadcrumbs .items .item strong{font-weight: 700; color: #7d7d7d}
-.breadcrumbs .items .item a:after {  content: '\f105'; display: inline-block; font-family: FontAwesome; font-style: normal; font-weight: normal; font-variant: normal; font-synthesis: weight style; font-stretch: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-feature-settings: normal;  line-height: 1;  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;  text-align: center; font-size: 14px; padding: 0 10px; }
-#detail .title-cm{margin: 0;}
-#detail .cs-flex{margin-top: 15px;}
-#detail .product-options-bottom { float: left; display: block; width: 100% } 
-.nutrition_facts{margin-top: 15px}
