@@ -62,5 +62,22 @@ img{width: 100%; height:auto}
 #card-shop span.ui-spinner.ui-corner-all.ui-widget.ui-widget-content {margin: 0 auto}
 #card-shop .ta-center span{height: 100%; }
 
+/* login register */
+#loginRegisUser .session .cs-col-12.cs-col-sm-12.cs-col-lg-6{height: 100%; width: 100%;padding: 30px 30px 45px 30px; background-color: #fafafa; border: 1px solid #ddd;}
+#loginRegisUser .regisLogin{display: flex; justify-content: space-between; margin: 15px 90px 35px;}
+#loginRegisUser .regisLogin .register{padding-right: 15px;}
+#loginRegisUser .regisLogin .login{padding-left: 15px;}
+#loginRegisUser .regisLogin .login .main-content,#loginRegisUser .regisLogin .login .cs-flex{height: 100%}
+#loginRegisUser .button-cm{    background: #444; border: 1px solid #444;}
+
+/* product */
+.products{padding: 30px 0;  min-height: 500px;}
+.products .col2-layout .col-lg-3.col-md-3.col-sm-12.col-xs-12{margin-right: 0!important;}
+.products .col2-layout .col-lg-9.col-md-9.col-sm-12.col-xs-12{margin-left: 0!important;}
+.products .catalog-product{height: auto;}
+.products .category-cms h1{font-size: 40px;margin: 40px 0;}
+/* search */
+.pagination{text-align: center; margin-bottom: 40px;}
+
 
 
