@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<main id="maincontent" class="page-main about-us"><a id="contentarea" tabindex="-1"></a>
 <div class="columns col2-layout"><div class="container"><div class="row"><div class="col-lg-9 col-md-9 col-sm-12 col-xs-12"><div class="page-title-wrapper">
     <h1 class="page-title">
         <span class="base" data-ui-id="page-title-wrapper">THOL - Gym phục vụ cuộc sống</span>    </h1>
